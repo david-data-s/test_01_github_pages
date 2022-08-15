@@ -1,6 +1,6 @@
 layout: page
 title: "PAGE TITLE"
-permalink: https://david-data-s.github.io/test_01_github_pages/new_page1
+permalink: https://david-data-s.github.io/test_01_github_pages
 
 ## new_page1
 
