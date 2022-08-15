@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE TITLE"
+permalink: https://david-data-s.github.io/test_01_github_pages/new_page1
+
 ## new_page1
 
 You can use the [editor on GitHub](https://github.com/david-data-s/test_01_github_pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
